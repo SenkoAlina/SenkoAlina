@@ -1,16 +1,36 @@
-### Hi there 👋
+### Привет! Я Алина и я Python разработчик
 
-<!--
-**SenkoAlina/SenkoAlina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Стек:
+  * Python
+  * Django
+  * DRF
+  * Rest API
+  * Nginx
+  * Linux
+  * SQL
+  * PostgreSQL
+  * Docker
+  * Bash
+  
+## Контакты:
 
-Here are some ideas to get you started:
+Связаться со мной можно по почте, которая указана в шапке профиля, а так же в *Telegram* `@Alinasnko`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Hi! I`m Alina and I`m Python developer
+
+## Languages and tools:
+  * Python
+  * Django
+  * DRF
+  * Rest API
+  * Nginx
+  * Linux
+  * SQL
+  * PostgreSQL
+  * Docker
+  * Bash
+  
+## Contacts:
+
+You can contact me by mail, which is indicated in the profile header, as well as in *Telegram* `@Alinasnko`
