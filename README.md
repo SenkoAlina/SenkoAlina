@@ -17,7 +17,7 @@
 Связаться со мной можно по почте, которая указана в шапке профиля, а так же в *Telegram* `@Alinasnko`
 
 
-### Hi! I`m Alina and I`m Python developer
+### Hi! I am Alina and I am Python developer
 
 ## Languages and tools:
   * Python
